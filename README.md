@@ -1,5 +1,9 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amirehsan+Kohannasab!;" />
+</h1>
+
 # 💫 About Me:
-🔭 I'm currently working on Asp.net Based Sites.<br>👯 I'm looking to collaborate on .Net bases Apps, Sites and Widgets.<br>🤝 I'm looking for help with finding good ideas to work on.<br>🌱 I'm currently learning JavaScript and Python.<br>💬 Feel free to ask me about anything programming related.<br>⚡ Fun fact is I'm in love with c#!<br>
+🔭 I'm currently working on Asp.net Based Projects.<br>👯 I'm looking to collaborate on .Net bases Apps, Sites and Widgets.<br>🤝 I'm looking for help with finding good ideas to work on.<br>🌱 I'm currently learning JavaScript and MicroServices.<br>💬 Feel free to ask me about anything programming related.<br>⚡ Fun fact is I'm in love with c#!<br>
 
 
 ## 🌐 Socials:
